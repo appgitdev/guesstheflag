@@ -11,7 +11,7 @@ import SwiftUI
 struct guesstheflagApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ButtonAndImagePage()
         }
     }
 }
